@@ -56,3 +56,7 @@ Using **SHAP** (SHapley Additive exPlanations):
   - Balancing data (e.g., SMOTE)
   - Trying gradient boosting variants (LightGBM, CatBoost)
   - Hyperparameter optimization with cross-validation
+ 
+
+###### This project is for educational purposes only
+###### by Calista.L
